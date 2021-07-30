@@ -18,7 +18,7 @@ Wartości odszkodowań oraz zmiana liczby klientów w każdym miesiącu wyznacza
 
 W projekcie przedstawiony jest rozwój firmy, długoletnie prognozy oraz prawdopodobieństwo bankructwa na przestrzeni czasu.
 
-
+Link do strony z projektem znajduje się <a href="https://ajanczewska.github.io/proces-ryzyka-firmy-ubezpieczeniowej/">tutaj</a>. 
 
 
 

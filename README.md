@@ -1,10 +1,12 @@
 # Analiza procesu ryzyka firmy ubezpieczeniowej 📈
 
-Symulacja potencjalnego kapitału firmy ubezpieczeniowej (sprzedasz polis OC i AC dla kierowców) po każdym miesiącu jej funkcjonowania.<br>
+Symulacja potencjalnego kapitału oraz prognozy dotyczące rozwoju fikcyjnej firmy ubezpieczeniowej, która oferuje sprzedasz polis OC i AC dla kierowców.<br>
 
-#  O projekcie 
+#  O projekcie
 
-Projekt zakłada istnienie firmy ubezpieczeniowej, która sprzedaje polisy OC i AC dla kierowców.
+Projekt napisany jest w Jupyterze, a symulacje w nim wykorzystywane w języku Python.
+
+Zakłada istnienie firmy ubezpieczeniowej, która sprzedaje polisy OC i AC dla kierowców.
 
 Ma on na celu ustalenie jak najlepszych strategii marketingowych, zaciągania kredytów, ustalania wysokości cen polis OC i AC firmy, tak aby prosperowała ona jak najlepiej.
 
@@ -18,7 +20,6 @@ Wartości odszkodowań oraz zmiana liczby klientów w każdym miesiącu wyznacza
 
 W projekcie przedstawiony jest rozwój firmy, długoletnie prognozy oraz prawdopodobieństwo bankructwa na przestrzeni czasu.
 
-Link do strony z projektem znajduje się <a href="https://ajanczewska.github.io/proces-ryzyka-firmy-ubezpieczeniowej/">tutaj</a>. 
 
 
 

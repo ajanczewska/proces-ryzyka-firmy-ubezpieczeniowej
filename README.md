@@ -1,24 +1,25 @@
-# Analiza procesu ryzyka firmy ubezpieczeniowej 📈
+# Analysis of the insurance company's risk process. 📈
 
-Symulacja potencjalnego kapitału oraz prognozy dotyczące rozwoju fikcyjnej firmy ubezpieczeniowej, która oferuje sprzedasz polis OC i AC dla kierowców.<br>
+Simulation of potential capital and forecasts for the development of a fictional insurance company that offers OC and AC insurance policies for drivers.
 
-#  O projekcie
+# About project.
 
-Projekt napisany jest w Jupyterze, a symulacje w nim wykorzystywane w języku Python.
+This is non-commercial project made in college and the text in it is written in Polish.
+The project is written in Jupyter. The simulations used in it are in Python.
 
-Zakłada istnienie firmy ubezpieczeniowej, która sprzedaje polisy OC i AC dla kierowców.
+The project assumes existence of an insurance company that sells OC and AC policies for drivers.
 
-Ma on na celu ustalenie jak najlepszych strategii marketingowych, zaciągania kredytów, ustalania wysokości cen polis OC i AC firmy, tak aby prosperowała ona jak najlepiej.
+It aims to determine the best possible marketing strategies, taking out loans, setting the price of OC and AC policies, so that the company can prosper as well as possible.
 
-Firma zaczyna funkcjonować z pewnym ustalonym kapitałem początkowym oraz pewną liczbą klientów.
+It assumes that the company begins to operate with a certain fixed start-up capital and a certain number of customers.
 
-W projekcie brane są pod uwagę <a href="https://statystyka.policja.pl/st/ruch-drogowy/76562,wypadki-drogowe-raporty-roczne.html">rzeczywiste dane dotyczące wypadków drogowych</a> w celu ustalenia wartości odszkodowań, które firma musi wypłacić swoim klientom w każdym miesiącu.
+In project there are used <a href="https://statystyka.policja.pl/st/ruch-drogowy/76562,wypadki-drogowe-raporty-roczne.html">real car accidents data</a> in order to establish the value of damages that the company has to pay to its clients each month.
 
-W projekcie uwzględniona jest również rotacja liczby klientów.
+The project also takes into account the rotation of the number of customers.
 
-Wartości odszkodowań oraz zmiana liczby klientów w każdym miesiącu wyznaczane są losowo.
+Compensation values and the change in the number of customers each month are determined randomly.
 
-W projekcie przedstawiony jest rozwój firmy, długoletnie prognozy oraz prawdopodobieństwo bankructwa na przestrzeni czasu.
+The project presents the company's development, long-term forecasts and the likelihood of bankruptcy over time.
 
 
 
